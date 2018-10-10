@@ -22,6 +22,7 @@ width: 71px;
 height: 80px;
 background-size: 216px 240px;
 transition: top 1s ease;
+z-index: 99;
 }
 
 .animate{
